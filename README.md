@@ -18,3 +18,6 @@ Cooke, Andrew: http://acooke.org/malbolge.html
 
 ### bottles-995.mb
 Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
+
+### hello-world2.mb
+<Unknown> http://en.wikipedia.org/wiki/Malbolge
